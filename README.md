@@ -1,6 +1,7 @@
 ## Research Infrastructure of Chinese Foundation
 
-### Paper available at http://ssrn.com/abstract=2673879    Video introduction
+### Database paper (methodology, instruction, etc.): http://ssrn.com/abstract=2673879
+### Video introduction: http://ricf.org.cn/?p=324
 
 ### 修订记录 | Revision History
 
@@ -8,6 +9,7 @@
 #### v08222016.01:
 1. Update contact information (email address);
 2. Minor revisions for correcting grammatical errors.
+
 #### v07022016.01: Minor revisions for correcting grammatical errors.
 #### v03012016.01: Major revisions have been made.
 1. Codebook upgrade;
@@ -15,8 +17,10 @@
 3. Data updating workflow upgrade;
 4. Extensive revising of manual;
 5. Other minor updates.
+
 #### v11072015.01:
 1. Datafield added (“ba_zip”);
 2. “Revision history” section added;
 3. SSRN paper address added.
+
 #### v10132015.01: Initial release.
