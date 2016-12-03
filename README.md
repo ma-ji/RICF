@@ -1,4 +1,4 @@
-## Research Infrastructure of Chinese Foundation
+## Research Infrastructure of Chinese Foundation 中国基金会研究基础数据库
 
 ### Project website: http://ricf.org.cn
 - Database paper (methodology, instruction, etc.): http://ssrn.com/abstract=2673879
