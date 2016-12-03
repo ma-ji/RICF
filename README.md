@@ -1,8 +1,8 @@
-# Research Infrastructure of Chinese Foundation
+## Research Infrastructure of Chinese Foundation
 
-## Paper available at http://ssrn.com/abstract=2673879    Video introduction
+### Paper available at http://ssrn.com/abstract=2673879    Video introduction
 
-## 修订记录 | Revision History
+### 修订记录 | Revision History
 
 #### v10102016.01: The letter codes of organization ID in all tables are changed to ricf_id.
 #### v08222016.01:
@@ -15,8 +15,8 @@
 3. Data updating workflow upgrade;
 4. Extensive revising of manual;
 5. Other minor updates.
-v11072015.01:
+#### v11072015.01:
 1. Datafield added (“ba_zip”);
 2. “Revision history” section added;
 3. SSRN paper address added.
-v10132015.01: Initial release.
+#### v10132015.01: Initial release.
