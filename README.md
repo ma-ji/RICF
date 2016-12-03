@@ -1,7 +1,8 @@
 ## Research Infrastructure of Chinese Foundation
 
-### Database paper (methodology, instruction, etc.): http://ssrn.com/abstract=2673879
-### Video introduction: http://ricf.org.cn/?p=324
+### Project website: http://ricf.org.cn
+- Database paper (methodology, instruction, etc.): http://ssrn.com/abstract=2673879
+- Video introduction: http://ricf.org.cn/?p=324
 
 ### 修订记录 | Revision History
 
