@@ -4,5 +4,5 @@
 - Database paper (methodology, instruction, etc.): http://ssrn.com/abstract=2673879
 - Video introduction: http://ricf.org.cn/?p=324
 
-### How to cite?
+### How to cite:
 - Ma, J., Wang, Q., Dong, C., & Li, H. (2015). The Research Infrastructure of Chinese Foundations: Database Introduction and User Manual (SSRN Scholarly Paper No. ID 2673879). Rochester, NY: Social Science Research Network. Retrieved from http://ssrn.com/abstract=2673879
