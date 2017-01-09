@@ -7,4 +7,4 @@
 - Video introduction: http://ricf.org.cn/?p=324
 
 ### How to cite:
-- Ma, Ji, Qun Wang, Chao Dong, and Huafang Li. 2015. “The Research Infrastructure of Chinese Foundations: Database Introduction and User Manual.” SSRN Scholarly Paper ID 2673879. Rochester, NY: Social Science Research Network. http://ssrn.com/abstract=2673879.
+- Ma, J., Wang, Q., Dong, C., & Li, H. (2015). A Database for Chinese Civil Society Studies: The Research Infrastructure of Chinese Foundations (SSRN Scholarly Paper No. ID 2673879). Rochester, NY: Social Science Research Network. Retrieved from https://papers.ssrn.com/abstract=2896414
