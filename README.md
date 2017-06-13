@@ -1,6 +1,6 @@
 ## Research Infrastructure of Chinese Foundation 中国基金会研究基础数据库
 
-### Download versioned release: https://github.com/ma47/RICF/releases
+**Download versioned release: https://github.com/ma47/RICF/releases**
 
 ### Database Introduction:
 - Database paper (methodology, instruction, etc.): http://ssrn.com/abstract=2673879
