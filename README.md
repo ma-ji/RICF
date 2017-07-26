@@ -7,7 +7,7 @@
 - Video introduction: http://ricf.org.cn/?p=324
 
 ### How to cite:
-- Ma, J., Wang, Q., Dong, C., & Li, H. (2015). A Database for Chinese Civil Society Studies: The Research Infrastructure of Chinese Foundations (SSRN Scholarly Paper No. ID 2673879). Rochester, NY: Social Science Research Network. Retrieved from https://papers.ssrn.com/abstract=2896414
+- Ma, J., Wang, Q., Dong, C., and Li, H. (2017). The research infrastructure of Chinese foundations, a database for Chinese civil society studies. _Scientific Data,_ __4__:170094.
 
 ### Data source 
 
