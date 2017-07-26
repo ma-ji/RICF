@@ -3,7 +3,7 @@
 **Download versioned release: https://github.com/ma47/RICF/releases**
 
 ### Database Introduction:
-- Database paper (methodology, instruction, etc.): http://ssrn.com/abstract=2673879
+- Data Descriptor (methodology, instruction, etc.): https://www.nature.com/articles/sdata201794
 - Video introduction: http://ricf.org.cn/?p=324
 
 ### How to cite:
