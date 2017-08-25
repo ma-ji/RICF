@@ -1,4 +1,5 @@
-/codes/chinanpo_gov_cn
 /codes/fin_check
 /codes/refine_raw
+/raw_data/chinanpo_gov_cn/chinanpo.gov.cn.ipynb
+/raw_data/chinanpo_gov_cn/chinanpo.log
 .gitignore
