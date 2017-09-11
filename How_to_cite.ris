@@ -1,18 +1,20 @@
 TY  - JOUR
+TI  - The research infrastructure of Chinese foundations, a database for Chinese civil society studies
 AU  - Ma, Ji
 AU  - Wang, Qun
 AU  - Dong, Chao
 AU  - Li, Huafang
-TI  - The research infrastructure of Chinese foundations, a database for Chinese civil society studies
-JA  - 
-PY  - 2017/07/25/online
+T2  - Scientific Data
+AB  - Data Descriptor
+DA  - 2017/07/25/
+PY  - 2017
+DO  - 10.1038/sdata.2017.94
+DP  - www.nature.com
 VL  - 4
-SP  - 170094
-EP  -
-PB  - The Author(s)
-SN  -
-UR  - http://dx.doi.org/10.1038/sdata.2017.94
-L3  - 10.1038/sdata.2017.94
-M3  - Data Descriptor
-L3  - 
-ER  -
+SP  - sdata201794
+LA  - en
+SN  - 2052-4463
+UR  - https://www.nature.com/articles/sdata201794
+Y2  - 2017/07/29/14:51:53
+L1  - https://www.nature.com/articles/sdata201794.pdf
+ER  - 

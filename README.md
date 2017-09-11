@@ -1,10 +1,7 @@
 ## Research Infrastructure of Chinese Foundation 中国基金会研究基础数据库
 
 **Download versioned release: https://github.com/ma47/RICF/releases**
-
-### Database Introduction:
-- Data Descriptor (methodology, instruction, etc.): https://www.nature.com/articles/sdata201794
-- Video introduction: http://ricf.org.cn/?p=324
+**Data Descriptor (methodology, instruction, etc.): https://www.nature.com/articles/sdata201794**
 
 ### How to cite:
 - Ma, J., Wang, Q., Dong, C., and Li, H. (2017). The research infrastructure of Chinese foundations, a database for Chinese civil society studies. _Scientific Data,_ __4__:170094.
