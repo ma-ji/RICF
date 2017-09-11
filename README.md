@@ -1,6 +1,7 @@
 ## Research Infrastructure of Chinese Foundation 中国基金会研究基础数据库
 
 **Download versioned release: https://github.com/ma47/RICF/releases**
+
 **Data Descriptor (methodology, instruction, etc.): https://www.nature.com/articles/sdata201794**
 
 ### How to cite:
