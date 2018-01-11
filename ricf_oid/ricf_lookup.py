@@ -6,12 +6,15 @@ def ricf_lookup(ricf_oid=None, foundation_name=None, uscc=None):
         df_ricf_oid_temp=df_ricf_oid.set_index('name_set')
         name_set_matched=[s for s in df_ricf_oid_temp.index if foundation_name in s.split('#')]
         if len(name_set_matched)==1:
-            oid_uscc={'ricf_oid':df_ricf_oid_temp.loc[name_set_matched[0], 'ricf_oid'], 'nacao_uscc':df_ricf_oid_temp.loc[name_set_matched[0], 'nacao_uscc']}
+            oid_uscc_nm={'ricf_oid':df_ricf_oid_temp.loc[name_set_matched[0], 'ricf_oid'], 
+                         'nacao_uscc':df_ricf_oid_temp.loc[name_set_matched[0], 'nacao_uscc'],
+                         'ba_cn':df_ricf_oid_temp.loc[name_set_matched[0], 'ba_cn'],
+                        }
         elif len(name_set_matched)==0:
-            oid_uscc={'ricf_oid':'NotFound', 'nacao_uscc':'NotFound'}
+            oid_uscc_nm={'ricf_oid':'NotFound', 'nacao_uscc':'NotFound', 'ba_cn':'NotFound'}
         elif len(name_set_matched)>1:
-            oid_uscc={'ricf_oid':'MoreThanOneMatch', 'nacao_uscc':'MoreThanOneMatch'}
-        return oid_uscc
+            oid_uscc_nm={'ricf_oid':'MoreThanOneMatch', 'nacao_uscc':'MoreThanOneMatch', 'ba_cn':'MoreThanOneMatch'}
+        return oid_uscc_nm
     elif foundation_name==None and ricf_oid!=None and uscc==None:
         ricf_oid=int(ricf_oid)
         df_ricf_oid_temp=df_ricf_oid.set_index('ricf_oid')
