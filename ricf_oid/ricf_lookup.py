@@ -1,4 +1,5 @@
 # ricf_oid lookup module.
+import pandas as pd
 df_ricf_oid=pd.read_csv('https://raw.githubusercontent.com/ma-ji/RICF/master/ricf_oid/ricf_oid.tsv', sep='\t')
 def ricf_lookup(ricf_oid=None, foundation_name=None, uscc=None):
     if foundation_name!=None and ricf_oid==None and uscc==None:
