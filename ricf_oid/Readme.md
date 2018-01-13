@@ -21,10 +21,10 @@ Only use one parameter to lookup, otherwise return error.
 - `nacao_uscc`: Unified Social Credit Code, 'NotFound', or 'MoreThanOneMatch'.
 - `ba_cn`: Foundation's name used by RICF, 'NotFound', or 'MoreThanOneMatch'.
 - Errors: 
--- Multiple lookup parameters: "Only need one parameter (ricf_oid/foundation_name/uscc)."
--- No lookup parameter: "Need at least one parameter (ricf_oid/foundation_name/uscc)."
+	- Multiple lookup parameters: "Only need one parameter (ricf_oid/foundation_name/uscc)."
+	- No lookup parameter: "Need at least one parameter (ricf_oid/foundation_name/uscc)."
 
-#### Example.
+#### Example
 
 ```Python
 In : ricf_lookup(ricf_oid='32')
