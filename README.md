@@ -3,6 +3,7 @@
 **Download versioned release: https://github.com/ma47/RICF/releases**
 
 **Data Descriptor (methodology, instruction, etc.): https://www.nature.com/articles/sdata201794**
+**Report data errors: https://jinshuju.net/f/JRisXg**
 
 ### How to cite:
 - Ma, J., Wang, Q., Dong, C., and Li, H. (2017). The research infrastructure of Chinese foundations, a database for Chinese civil society studies. _Scientific Data,_ __4__:170094.
