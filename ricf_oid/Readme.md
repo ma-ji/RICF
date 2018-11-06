@@ -30,3 +30,8 @@ Only use one parameter to lookup, otherwise return error.
 In : ricf_lookup(ricf_oid='32')
 Out: {'ba_cn': '上海同济大学教育发展基金会', 'nacao_uscc': '5331000050177993X2'}
 ```
+
+#### Source index file
+
+If you need to access the source ricf_oid index file, follow this link. Try to download to see how it looks like and evaluate if it meets your advanced demands.
+- https://docs.google.com/spreadsheets/d/e/2PACX-1vQfh8PO0Lz8kRPJlj8-zaua6ctylYmmmzbmDa-GNlVCmoONQXDf4QuRQJKRGErjH6N-TpiUV6UrbVOZ/pub?gid=2014584305&single=true&output=tsv
