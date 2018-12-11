@@ -1,6 +1,7 @@
 # ricf_oid lookup module.
 import pandas as pd
 df_ricf_oid=pd.read_csv('https://docs.google.com/spreadsheets/d/e/2PACX-1vQfh8PO0Lz8kRPJlj8-zaua6ctylYmmmzbmDa-GNlVCmoONQXDf4QuRQJKRGErjH6N-TpiUV6UrbVOZ/pub?gid=2014584305&single=true&output=tsv', sep='\t')
+df_ricf_oid['ricf_oid']=df_ricf_oid['ricf_oid'].apply(str)
 def ricf_lookup(ricf_oid=None, foundation_name=None, uscc=None):
     if foundation_name!=None and ricf_oid==None and uscc==None:
         df_ricf_oid_temp=df_ricf_oid.set_index('name_set')
@@ -16,7 +17,7 @@ def ricf_lookup(ricf_oid=None, foundation_name=None, uscc=None):
             oid_uscc_nm={'ricf_oid':'MoreThanOneMatch', 'nacao_uscc':'MoreThanOneMatch', 'ba_cn':'MoreThanOneMatch'}
         return oid_uscc_nm
     elif foundation_name==None and ricf_oid!=None and uscc==None:
-        ricf_oid=int(ricf_oid)
+        ricf_oid=str(ricf_oid)
         df_ricf_oid_temp=df_ricf_oid.set_index('ricf_oid')
         if ricf_oid in df_ricf_oid_temp.index:
             name_uscc={'ba_cn':df_ricf_oid_temp.loc[ricf_oid, 'ba_cn'], 'nacao_uscc':df_ricf_oid_temp.loc[ricf_oid, 'nacao_uscc']}
