@@ -2,7 +2,11 @@
 
 [ZipFile](https://github.com/ma47/RICF/releases)		[Methodology](https://www.nature.com/articles/sdata201794)		[Citing Articles](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13403989527123536875,13309350827279654854)		[Report Errors](https://jinshuju.net/f/JRisXg)
 
-### How to cite:
+### Board member information
+
+Based on RICF and [a following study](https://dx.doi.org/10.2139/ssrn.3262798), the board member information between 2005-2016 is available to academia. Although these personal identification records (name, gender, and date of birth) are compiled from public sources, they are not wildly open because of privacy concerns. You need to fill out this [Non-Disclosure Agreement](/nda.doc).
+
+### How to cite
 - Ma, J., Wang, Q., Dong, C., and Li, H. (2017). The research infrastructure of Chinese foundations, a database for Chinese civil society studies. _Scientific Data,_ __4__:170094.
 
 ### Data source (数据来源)
