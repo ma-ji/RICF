@@ -4,7 +4,7 @@
 
 ### Board member information
 
-Based on RICF and [a following study](https://dx.doi.org/10.2139/ssrn.3262798), the board member information between 2005-2016 is available to academia. Although these personal identification records (name, gender, and date of birth) are compiled from public sources, they are not wildly open because of privacy concerns. You need to fill out this [Non-Disclosure Agreement](/nda.docx?raw=true).
+Based on RICF and [a following study](https://dx.doi.org/10.2139/ssrn.3262798), the board member information between 2010-2016 is available to academia. Although these personal identification records (name, gender, and date of birth) are compiled from public sources, they are not wildly open because of privacy concerns. You need to fill out this [Non-Disclosure Agreement](/nda.docx?raw=true).
 
 ### How to cite
 - Ma, J., Wang, Q., Dong, C., and Li, H. (2017). The research infrastructure of Chinese foundations, a database for Chinese civil society studies. _Scientific Data,_ __4__:170094.
