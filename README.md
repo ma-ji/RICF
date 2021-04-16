@@ -1,6 +1,7 @@
 ## Research Infrastructure of Chinese Foundation 中国基金会研究基础数据库
 
-[ZipFile](https://github.com/ma47/RICF/releases)		[Methodology](https://www.nature.com/articles/sdata201794)		[Citing Articles](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13403989527123536875,13309350827279654854)		[Report Errors](https://jinshuju.net/f/JRisXg)
+[![SCIENTIFIC DATA](https://img.shields.io/badge/SCIENTIFIC%20DATA%20DOI-10.1038/sdata.2017.94-brightgreen)](https://doi.org/10.1038/sdata.2017.94)
+[![CITING ARTICLES](https://img.shields.io/badge/CITING%20ARTICLES%20-blue)](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13309350827279654854,823839754776560546)
 
 ### Board member information
 
