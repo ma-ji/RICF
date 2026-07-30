@@ -1,3 +1,5 @@
+# [_RICF2.0 is here!!!_](https://ma-ji.github.io/RICF2/)
+
 ## Research Infrastructure of Chinese Foundation 中国基金会研究基础数据库
 
 [![SCIENTIFIC DATA](https://img.shields.io/badge/SCIENTIFIC%20DATA%20DOI-10.1038/sdata.2017.94-brightgreen)](https://doi.org/10.1038/sdata.2017.94)
